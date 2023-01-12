@@ -3,9 +3,11 @@
 ## Subheader
 
 ```bash
-head -1 file.txt
+# This is a header.
 ```
 
 ```c
-
+/* 
+* This is a header.
+*/
 ```
